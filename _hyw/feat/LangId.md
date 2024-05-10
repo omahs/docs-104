@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-This covers the transfer of Eastern Armenian forms to Western Armenian. The trasnfered forms will be tagged according to their basic use.
+This covers the transfer of Eastern Armenian forms to Western Armenian. The transferred forms will be tagged according to their basic use.
 
 ### <a name="Hy">`Hy`</a>: Eastern Armenian
 
